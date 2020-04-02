@@ -1,0 +1,4 @@
+Mario moeda 5
+Luigi moeda 10, estrela 1, cogumelo 5
+Waluigi moeda 0
+Birdo moeda 0
